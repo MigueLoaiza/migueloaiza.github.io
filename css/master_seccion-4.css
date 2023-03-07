@@ -1,0 +1,209 @@
+#u29739 {
+    border-width: 0px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u21440-4 {
+    background-color: transparent;
+    text-align: center;
+}
+
+#u21440-4:hover p,
+#u21440-4:hover span {
+    text-decoration: underline;
+}
+
+#u21440-4:active p,
+#u21440-4:active span {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u21440-4:hover p {
+    text-decoration: underline;
+}
+
+#u21440-4:active p {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u21439-4 {
+    background-color: transparent;
+    text-align: center;
+}
+
+#u21439-4:hover p,
+#u21439-4:hover span {
+    text-decoration: underline;
+}
+
+#u21439-4:active p,
+#u21439-4:active span {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u21439-4:hover p {
+    text-decoration: underline;
+}
+
+#u21439-4:active p {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u21436-4 {
+    background-color: transparent;
+    text-align: center;
+}
+
+#u21436-4:hover p,
+#u21436-4:hover span {
+    text-decoration: underline;
+}
+
+#u21436-4:active p,
+#u21436-4:active span {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u21436-4:hover p {
+    text-decoration: underline;
+}
+
+#u21436-4:active p {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u29426-4 {
+    background-color: transparent;
+    text-align: center;
+}
+
+#u29426-4:hover p,
+#u29426-4:hover span {
+    text-decoration: underline;
+}
+
+#u29426-4:active p,
+#u29426-4:active span {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u29426-4:hover p {
+    text-decoration: underline;
+}
+
+#u29426-4:active p {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u21437,
+#u21438,
+#u29429,
+#u29736,
+#u29737 {
+    background-color: #CCCCCC;
+}
+
+#u29733-4 {
+    background-color: transparent;
+    text-align: center;
+}
+
+#u29733-4:hover p,
+#u29733-4:hover span {
+    text-decoration: underline;
+}
+
+#u29733-4:active p,
+#u29733-4:active span {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u29733-4:hover p {
+    text-decoration: underline;
+}
+
+#u29733-4:active p {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+/* Se agrego el estilo para el nuevo valor de la seccion 4 (Directorio de enlaces) */
+
+#u29740-4 {
+    background-color: transparent;
+    text-align: center;
+}
+
+#u29740-4:hover p,
+#u29740-4:hover span {
+    text-decoration: underline;
+}
+
+#u29740-4:active p,
+#u29740-4:active span {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+#u29740-4:hover p {
+    text-decoration: underline;
+}
+
+#u29740-4:active p {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: underline;
+}
+
+/* */
+
+#u21440-4.MuseLinkActive p,
+#u21440-4.MuseLinkActive span,
+#u21440-4.MuseLinkActive p,
+/* id agregado */
+#u21439-4.MuseLinkActive p,
+#u21439-4.MuseLinkActive span,
+#u21439-4.MuseLinkActive p,
+#u21436-4.MuseLinkActive p,
+#u21436-4.MuseLinkActive span,
+#u21436-4.MuseLinkActive p,
+#u29426-4.MuseLinkActive p,
+#u29426-4.MuseLinkActive span,
+#u29426-4.MuseLinkActive p,
+#u29733-4.MuseLinkActive p,
+#u29733-4.MuseLinkActive span,
+#u29733-4.MuseLinkActive p,
+#u29740-4.MuseLinkActive p,
+#u29740-4.MuseLinkActive span,
+#u29740-4.MuseLinkActive p {
+    color: #4285F4;
+    visibility: inherit;
+    text-decoration: none;
+}
+
+#u29065 {
+    border-width: 0px;
+    border-color: transparent;
+    background-color: #4285F4;
+}
